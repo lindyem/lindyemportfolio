@@ -12,7 +12,7 @@
 
 
 ## Technology Used
-* HMTML5
+* HTML5
 * CSS3
 * BOOTSTRAP
 * JAVASCRIPT 
