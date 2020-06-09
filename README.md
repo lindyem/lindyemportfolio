@@ -3,7 +3,7 @@
 
 
 ## Link
-[Lindy Merwin Portfolio](https://lindyem.github.io/lindyemportfolio/"Lindy Merwin Portfolio")
+[Lindy Merwin Portfolio](https://lindyem.github.io/lindyemportfolio/ "Lindy Merwin Portfolio")
 
 
 
